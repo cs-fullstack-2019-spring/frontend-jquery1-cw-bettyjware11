@@ -1,0 +1,11 @@
+/*making font red in red class*/
+.red
+{
+    color: red;
+}
+
+/*making font blue in blue class*/
+#myElement {
+
+    color: blue;
+}
