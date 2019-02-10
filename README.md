@@ -1,3 +1,6 @@
+### Points: 1
+### KEY: On the right track, but incomplete.
+
 # Introduction to jQuery Graded Classwork
 
 ## Use only jQuery to select elements, and jQuery 
